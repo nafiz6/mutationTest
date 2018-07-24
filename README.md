@@ -1,0 +1,3 @@
+A basic example of a genetic algorithm. It starts with a random set of texts and causes mutation to form several sets from an initial text. The best ones are measured and mutated to form the next generation text. The process repeats until mutation causes it to reach the particular goal. Algorithms can be devised to learn and improve in this manner.
+
+Demo: http://www.whitewall.site.s3-website-us-west-2.amazonaws.com/mutationTest/
